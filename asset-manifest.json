@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e8f5c40.css",
+    "main.js": "/static/js/main.4963d990.js",
+    "static/media/kor11a.m4a": "/static/media/kor11a.0c1a3a7aaa649d513ad7.m4a",
+    "static/media/av_andrewking.gif": "/static/media/av_andrewking.03a31b425c06510a1b8e.gif",
+    "static/media/owner.jpg": "/static/media/owner.1909bb2d8dd8e99e6065.jpg",
+    "static/media/python-2-eshkere.mp3": "/static/media/python-2-eshkere.afa755eeb44d000fbd1e.mp3",
+    "static/media/python.mp3": "/static/media/python.b14fba842849e2ad0966.mp3",
+    "static/media/grlfrnd.jpg": "/static/media/grlfrnd.7f17dc5691f70ca754d5.jpg",
+    "static/media/avatar.jpg": "/static/media/avatar.ae7f4f0b6c5c83fcbee8.jpg",
+    "static/media/phone-call.mp3": "/static/media/phone-call.9e26b8b786a0be4b0325.mp3",
+    "static/media/mineflayerjs.png": "/static/media/mineflayerjs.7a0f8b96be103befaecb.png",
+    "static/media/minecraft.ttf": "/static/media/minecraft.d8eb722b7368d2bb4ed9.ttf",
+    "static/media/postgresql.png": "/static/media/postgresql.8cc1c370f4056f64fa44.png",
+    "static/media/rust.png": "/static/media/rust.5a3f17d932b89f3d9835.png",
+    "static/media/aiogram192.png": "/static/media/aiogram192.aca6b661ae57c88b44e7.png",
+    "index.html": "/index.html",
+    "main.7e8f5c40.css.map": "/static/css/main.7e8f5c40.css.map",
+    "main.4963d990.js.map": "/static/js/main.4963d990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e8f5c40.css",
+    "static/js/main.4963d990.js"
+  ]
+}
