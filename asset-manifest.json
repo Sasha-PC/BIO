@@ -20,7 +20,7 @@
     "main.c0a1323f.js.map": "/BIO/static/js/main.c0a1323f.js.map"
   },
   "entrypoints": [
-    "static/css/main.53fabbb3.css",
-    "static/js/main.c0a1323f.js"
+    "BIO/static/css/main.53fabbb3.css",
+    "BIO/static/js/main.c0a1323f.js"
   ]
 }
